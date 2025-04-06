@@ -1,0 +1,31 @@
+Team,Logo,Division,2025 Salary,Min,Average,Max,Min AI,Max AI,ChatGPT,Claude,Deep Seek,Gemini,Meta AI
+Yankees,,AL East,"$277,979,358",90,98.8,103,Claude,"ChatGPT, Deep Seek",103,90,103,97,101
+Red Sox,,AL East,"$192,969,093",82,89.4,101,Claude,ChatGPT,101,82,86,85,93
+Blue Jays,,AL East,"$240,842,532",58,84.2,96,ChatGPT,Meta AI,58,86,95,86,96
+Orioles,,AL East,"$156,236,000",61,79.8,95,ChatGPT,Deep Seek,61,83,95,83,77
+Rays,,AL East,"$77,116,312",71,75.0,79,Meta AI,Claude,75,79,76,74,71
+Twins,,AL Central,"$142,490,390",79,80.8,82,ChatGPT,"Gemini, Meta AI",79,80,81,82,82
+Guardians,,AL Central,"$98,551,300",75,79.8,83,Gemini,Deep Seek,80,79,83,75,82
+Tigers,,AL Central,"$142,168,033",67,73.4,79,Meta AI,"Claude, Gemini",69,79,73,79,67
+Royals,,AL Central,"$126,106,656",66,72.4,77,ChatGPT,Gemini,66,76,69,77,74
+White Sox,,AL Central,"$72,258,625",50,60.6,70,Deep Seek,Claude,59,70,50,60,64
+Astros,,AL West,"$194,570,233",86,93.0,99,Claude,ChatGPT,99,86,92,94,94
+Rangers,,AL West,"$216,081,332",83,89.4,98,Claude,Deep Seek,87,83,98,87,92
+Angels,,AL West,"$189,958,096",74,81.8,88,Deep Seek,ChatGPT,88,79,74,81,87
+Mariners,,AL West,"$130,397,814",62,75.2,85,Meta AI,Deep Seek,64,81,85,84,62
+Athletics,,AL West,"$72,810,000",50,63.2,77,Deep Seek,ChatGPT,77,71,50,61,57
+Mets,,NL East,"$322,259,724",92,97.0,105,Claude,Deep Seek,93,92,105,98,97
+Phillies,,NL East,"$283,270,117",90,94.6,105,Meta AI,Deep Seek,91,91,105,96,90
+Braves,,NL East,"$206,155,000",88,94.4,102,Claude,Deep Seek,95,88,102,95,92
+Nationals,,NL East,"$78,846,023",61,69.6,85,Deep Seek,ChatGPT,85,72,61,64,66
+Marlins,,NL East,"$52,993,725",50,61.4,72,Deep Seek,Claude,67,72,50,58,60
+Cubs,,NL Central,"$195,663,250",82,88.0,98,Claude,ChatGPT,98,82,87,85,88
+Cardinals,,NL Central,"$142,955,581",79,84.2,92,Deep Seek,Meta AI,90,80,79,80,92
+Brewers,,NL Central,"$108,048,471",77,81.8,90,Deep Seek,Meta AI,83,81,77,78,90
+Reds,,NL Central,"$117,966,833",66,72.2,77,Deep Seek,Claude,72,77,66,76,70
+Pirates,,NL Central,"$87,281,000",56,64.0,74,Meta AI,Claude,63,74,58,69,56
+Dodgers,,NL West,"$317,487,291",96,102.4,105,Claude,Deep Seek,104,96,105,104,103
+Padres,,NL West,"$194,431,454",82,87.6,93,ChatGPT,Deep Seek,82,85,93,87,91
+Giants,,NL West,"$163,919,524",80,83.8,96,"Deep Seek, Meta AI",ChatGPT,96,81,80,82,80
+Diamondbacks,,NL West,"$189,794,235",71,82.8,89,ChatGPT,Deep Seek,71,82,89,88,84
+Rockies,,NL West,"$115,481,986",63,69.4,74,Deep Seek,ChatGPT,74,73,63,65,72
